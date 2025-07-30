@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CropTree02Top
+  m_Controller: {fileID: 9100000, guid: c6d73e189ec05444b969ddcf55eaa352, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d54ed1416072c4e858e24854c94aee02, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d54ed1416072c4e858e24854c94aee02, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b5870e7c55c1b42ceaf1c1fe11f359be, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b5870e7c55c1b42ceaf1c1fe11f359be, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b0a4c9f4665bbb44f912348331144e4e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b0a4c9f4665bbb44f912348331144e4e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0def14a98b41f4d9b9e425f3ec85458a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0def14a98b41f4d9b9e425f3ec85458a, type: 2}
